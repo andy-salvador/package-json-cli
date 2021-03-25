@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "filter-obj": "^1.1.0",
-    "meow": "^3.7.0",
+    "meow": "^8.0.0",
     "package-json": "^4.0.0"
   },
   "devDependencies": {
